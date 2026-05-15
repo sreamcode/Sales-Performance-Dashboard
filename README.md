@@ -1,10 +1,30 @@
 # Sales-Performance-Dashboard
-Sales Performance Dashboard  |  Python, Pandas, Matplotlib, Seaborn
-- Analysed 9,994 rows of Superstore sales data to extract KPIs —
-  Total Sales $2.3M, Profit Margin 12.47%, and YoY Growth of 29.5%.
-- Identified West as top-performing region ($108K profit) and Tables
-  as a loss-making sub-category requiring urgent business review.
-- Discovered that discounts above 40% consistently drive negative
-  profit — presented as actionable insight for pricing strategy.
-- Built 5 professional visualisations covering regional performance,
-  category analysis, time-series trends, and customer segmentation.
+## Project Overview
+Analysed 9,994 rows of Superstore sales data using Python 
+to extract business KPIs and generate actionable insights.
+
+## Key Findings
+-  Total Sales: $2,297,200
+-  Profit Margin: 12.47%
+-  YoY Growth: 29.5% (2015→2016), 20.4% (2016→2017)
+-  Top Region: West ($108K profit)
+-  Loss-Making: Tables sub-category (needs review)
+-  Discounts above 40% consistently drive negative profit
+
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- VS Code
+
+## Charts Built
+1. Sales & Profit by Region
+2. Category & Sub-Category Performance
+3. Sales Trend Analysis (YoY + Monthly)
+4. Customer Segment Performance
+5. Discount Impact & Top 10 States
+
+## Business Insights
+- West region leads in both sales and profitability
+- November is the peak sales month every year
+- Consumer segment drives 51% of total sales
+- High discount strategy is hurting overall profit margins
